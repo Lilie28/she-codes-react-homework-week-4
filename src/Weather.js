@@ -102,7 +102,7 @@ export default function Weather() {
       <div className="open-source">
         <a
           className="link-github"
-          href="https://github.com/Lilie28/my-weather-app"
+          href="https://github.com/Lilie28/she-codes-react-homework-week-4"
           target="_blank"
         >
           {" "}
